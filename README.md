@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Angular<br>🎯 Goals: Internationalize my career<br>🎲 Fun fact: Interest in cybersecurity<br>👯 I’m looking to collaborate on innovative projects where I can contribute with my knowledge<br>🤔 I’m looking for a workplace where the employees are encouraged to learn and study </p>
+<p align="left">📚 I'm currently learning Angular<br>🎯 Goals: Internationalize my career<br>🎲 Fun fact: Interest in IA<br>👯 I’m looking to collaborate on innovative projects where I can contribute with my knowledge<br>🤔 I’m looking for a workplace where the employees are encouraged to learn and study </p>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Node.js<br>🎯 Goals: Internationalize my career<br>🎲 Fun fact: Interested about Web3<br>👯 I’m looking to collaborate on innovative projects where I can contribute with my knowledge<br>🤔 I’m looking for a workplace where the employees are encouraged to learn and study </p>
+<p align="left">📚 I'm currently studying for AI-900<br>🎯 Goals: Internationalize my career<br>🎲 Fun fact: Interested about Web3<br>👯 I’m looking to collaborate on innovative projects where I can contribute with my knowledge<br>🤔 I’m looking for a workplace where the employees are encouraged to learn and study </p>
 
 ###
 
